@@ -1,0 +1,17 @@
+.counts {
+    background: #34495E;
+    color: #fff;
+    border-radius: 5px;
+    width: 225px;
+}
+
+.counts div {
+    padding: 8px;
+}
+
+.counts span {
+    float: right;
+}
+tr:nth-child(even){
+    background-color: yellowgreen;
+}
